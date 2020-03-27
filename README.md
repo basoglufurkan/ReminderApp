@@ -1,6 +1,8 @@
 # ReminderApp
 ReminderApp uygulaması Swift 5 dili ile geliştirilen bir iOS uygulamasıdır.
 
+Bu uygulamada, kullanıcı hatırlamak istediği olayı title ve body olarak iki ayrı textfield'a yazar. Kullanıcı uygulamayı kapattığında, bildirim telefon ekranında seçilen zamanda görünür. Bu uygulama ile birlikte kullanıcı bildirimlerini, picker kullanımını öğrendim. Projeye daha ileri taşımak isterseniz core data ile verileri telefonda saklayabilirsiniz.
+
 
 ## Uygulamanın Demosu
 ![Ekran Resmi 2020-03-22 00 20 50](https://user-images.githubusercontent.com/45877677/77699636-cf925100-6fc3-11ea-9051-592db8417aba.png)
